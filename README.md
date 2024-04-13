@@ -1,1 +1,1 @@
-# collision_sim
+A simple 2D collision simulator
